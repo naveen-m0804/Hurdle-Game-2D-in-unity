@@ -4,7 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Destroy
+  - destory
   layers:
   - Default
   - TransparentFX
