@@ -16,7 +16,7 @@ Step 5: Create a folder name Coding and create a C# file to add the coding in it
 
 Step 6: To add our C# Script file to our selected object, click on the C# Script file and drag it to our selected objects in the Hierarchy window nad run the application.
 
-Step 7: Stop.
+Step 7: Stop. 
 
 ## PROGRAM:
 playerControl.cs
@@ -96,8 +96,8 @@ public class runraja : MonoBehaviour
 }   
 ```
 
-## OUTPUT:
+## OUTPUT: 
 ![alt text](output.png)
 
 ## RESULT:
-Thus 2D game using C# program in unity is developed successfully.
+Thus the 2D game using C# program in unity is developed successfully.
